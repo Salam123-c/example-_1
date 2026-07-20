@@ -1,7 +1,8 @@
 # 📊 WFM Data Analytics & Executive Dashboard
 
 ## 📊 Executive Dashboard Overview
-![WFM Executive Dashboard](assets/1_executive_dashboard.png)
+ Dashboard Interaction <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/Screenshot%202024-09-30%20155022.png">View Dashboard</a>
+
 
 ---
 
