@@ -1,7 +1,7 @@
 # 📊 WFM Data Analytics & Executive Dashboard
 
 ## 📊 Executive Dashboard Overview
- Dashboard Interaction <a href="https://github.com/Salam123-c/Data-analyst-Daashboard/blob/main/Screenshot%202024-09-30%20155022.png">View Dashboard</a>
+ Dashboard Interaction <a href="https://github.com/Salam123-c/C:/Users/hp/Pictures/Screenshots/Screenshot 2026-07-20 173518.png">View Dashboard</a>
 
 
 ---
