@@ -1,7 +1,8 @@
 # 📊 WFM Data Analytics & Executive Dashboard
 
 ## 📊 Executive Dashboard Overview
- Dashboard Interaction <a href="https://github.com/Salam123-c/C:/Users/hp/Pictures/Screenshots/Screenshot 2026-07-20 173518.png">View Dashboard</a>
+ <a href="/mnt/user-data/uploads/Screenshot_2026-07-20_173518.png">View Dashboard - Call Volume</a>
+<a href="/mnt/user-data/uploads/Screenshot_2026-07-20_173539.png">View Dashboard - Shrinkage vs Service Level</a>
 
 ---
 
