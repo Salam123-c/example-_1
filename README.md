@@ -1,9 +1,9 @@
 # 📊 WFM Data Analytics & Executive Dashboard
 
 ## 📊 Executive Dashboard Overview
- <a href="/mnt/user-data/uploads/Screenshot_2026-07-20_173518.png">View Dashboard - Call Volume</a>
-<a href="/mnt/user-data/uploads/Screenshot_2026-07-20_173539.png">View Dashboard - Shrinkage vs Service Level</a>
+![Monthly Call Volume Dashboard](Screenshot%202026-07-20%20173518.png)
 
+![Shrinkage vs Service Level Dashboard](Screenshot%202026-07-20%20173539.png)
 ---
 
 ## 📌 Business Scenario & Objective
